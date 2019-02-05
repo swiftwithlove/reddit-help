@@ -1,6 +1,8 @@
 # reddit-help
 
-### TwoVCs 
-Is in response to this question on reddit: 
+Each project maps to a single question on reddit.
 
-- Stuck on programmatically adding two view controllers inside a root view controller and have both views inside the view controllers work properly :( ##### Posted byu/agballen 2 hours ago
+### TwoVCs 
+##### Posted byu/agballen 2 hours ago
+
+- Stuck on programmatically adding two view controllers inside a root view controller and have both views inside the view controllers work properly :( 
